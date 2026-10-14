@@ -1,0 +1,28 @@
+<h2>Daftar Tarif Cetak</h2>
+<table>
+    <tr>
+        <th>Ukuran Kertas</th>
+        <th>Warna</th>
+        <th>Tarif per halaman</th>   
+    </tr>
+    <tr>
+        <td>A4</td>
+          <td>Hitam Putih</td>
+        <td class="angka">Rp500</td>
+    </tr>
+    <tr>
+        <td>A4</td>
+        <td>Warna Warni</td>
+        <td class="angka">Rp1.500</td> 
+    </tr>
+    <tr>
+        <td>F4</td>
+        <td>Hitam Putih</td>
+        <td class="angka">Rp700</td>
+    </tr>
+    <tr>
+        <td>F4</td>
+        <td>Warna Warni</td>
+        <td class="angka">Rp1.800</td>
+    </tr>
+</table>
